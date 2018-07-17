@@ -18,4 +18,4 @@ layout: default
 
 # List of Publications
 
-
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
