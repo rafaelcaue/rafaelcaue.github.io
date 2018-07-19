@@ -20,6 +20,6 @@ layout: default
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
+<footer>
+<p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+</footer>
