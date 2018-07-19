@@ -17,7 +17,7 @@ layout: default
 *	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest</a>
 
 # List of Publications
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1&theme=simple"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1&theme=bullets"></script>
 
 # PhD Thesis
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fphd.bib&jsonp=1"></script>
