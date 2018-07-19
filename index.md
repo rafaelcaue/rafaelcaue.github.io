@@ -28,6 +28,4 @@ layout: default
 <br />
 <br />
 <br />
-<footer>
 <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-</footer>
