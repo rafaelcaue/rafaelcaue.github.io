@@ -16,8 +16,16 @@ layout: default
 *	Verification of planning
 *	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest</a>
 
-# List of Publications
+# PhD Thesis
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fphd.bib&jsonp=1"></script>
 
+# MSc Disseration
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fmsc.bib&jsonp=1"></script>
+
+# BSc Dissertation
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fbsc.bib&jsonp=1"></script>
+
+# List of Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
 
 <br />
