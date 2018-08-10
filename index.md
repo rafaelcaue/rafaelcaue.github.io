@@ -20,7 +20,7 @@ layout: default
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
 
 # PhD Thesis
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fphd.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Frafaelcaue.github.io%2Fphd.bib&jsonp=1"></script>
 
 # MSc Disseration
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fmsc.bib&jsonp=1"></script>
