@@ -14,7 +14,7 @@ layout: default
 *	Coordination mechanisms
 *	Multi-agent planning
 *	Verification of planning
-*	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest</a>
+*	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest (1<sup>st</sup> place in 2016, 4<sup>th</sup> place in 2017, 1<sup>st</sup> place in 2018)</a>
 
 # List of Publications
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
