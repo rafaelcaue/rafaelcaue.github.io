@@ -17,7 +17,7 @@ layout: default
 *	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest </a>(1<sup>st</sup> place in 2016, 4<sup>th</sup> place in 2017, 2<sup>nd</sup> place in 2018)
 
 # List of Publications
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Frafaelcaue.github.io%2Fpublications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fqy5lrjp3m4n1teg%2Fhubpubs.bib%3Fdl%3D1&jsonp=1"></script>
 
 # PhD Thesis
 <script src="https://bibbase.org/show?bib=http%3A%2F%2Frafaelcaue.github.io%2Fphd.bib&jsonp=1"></script>
