@@ -4,7 +4,7 @@ layout: default
 
 # Short Bio
 
-> Bachelor in Computer Science from Centro Universitário Franciscano (2012), Master in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2014), and Doctorate in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2018). Currently I am a Research Associate at the University of Liverpool. My main research themes are Multi-Agent Systems (MAS), Multi-Agent Planning (MAP), and Formal Verification.
+> Bachelor in Computer Science from Centro Universitário Franciscano (2012), Master in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2014), and Doctorate in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2018). I was a Post-Doctoral Research Associate at the University of Liverpool from 2018 to 2020. Currently I am a Post-Doctoral Research Associate at the University of Manchester and an Honorary Research Associate at the University of Liverpool. My main research themes are Multi-Agent Systems (MAS), Automated Planning, and Formal Verification.
 
 # Main Topics of Interest
 
