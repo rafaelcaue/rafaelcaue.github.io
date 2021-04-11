@@ -8,7 +8,7 @@ layout: default
 
 # Main Topics of Interest
 
-*   Agent-oriented and multi-agent programming languages
+*   Agent-oriented and multi-agent programming languages 
 *   Benchmarking agent- and actor-based programming languages
 *   Goal allocation protocols
 *	Coordination mechanisms
