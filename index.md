@@ -4,7 +4,7 @@ layout: default
 
 # Short Bio
 
-> Bachelor in Computer Science from Centro Universitário Franciscano (2012), Master in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2014), and Doctorate in Computer Science from Pontifícia Universidade Católica do Rio Grande do Sul (2018). I was a Post-Doctoral Research Associate at the University of Liverpool from 2018 to 2020. Currently I am a Post-Doctoral Research Associate at the University of Manchester and an Honorary Research Associate at the University of Liverpool. My main research themes are Multi-Agent Systems (MAS), Automated Planning, and Formal Verification.
+> I am a Postdoctoral Research Associate at the University of Manchester since July 2020, and an Honorary Research Associate at the University of Liverpool (UK). I am part of the Autonomy and Verification Network, where I work in a grant supported by the Royal Academy of Engineering under the Chairs in Emerging Technologies scheme. Previously, I was a Research Associate at the University of Liverpool from 2018 to 2020 where I worked in the research hubs RAIN and FAIR-SPACE. I obtained my Master and my Doctorate degrees in Computer Science from PUCRS (2014 and 2018 resp.), and Bachelor degree in Computer Science from Centro Universitário Franciscano (2012). 
 
 # Main Topics of Interest
 
@@ -12,6 +12,8 @@ layout: default
 *   Benchmarking agent- and actor-based programming languages
 *   Goal allocation protocols
 *	Coordination mechanisms
+*	Formal methods (particularly model checking agents)
+*	Runtime verification
 *	Multi-agent planning
 *	Verification of planning
 *	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest </a>(1<sup>st</sup> place in 2016, 4<sup>th</sup> place in 2017, 2<sup>nd</sup> place in 2018, 1<sup>st</sup> place in 2019, 2<sup>nd</sup> place in 2020/2021)
