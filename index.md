@@ -4,7 +4,7 @@ layout: default
 
 # Short Bio
 
-> I am a Postdoctoral Research Associate at the University of Manchester since July 2020, and an Honorary Research Associate at the University of Liverpool (UK). I am part of the Autonomy and Verification Network, where I work in a grant supported by the Royal Academy of Engineering under the Chairs in Emerging Technologies scheme. Previously, I was a Research Associate at the University of Liverpool from 2018 to 2020 where I worked in the research hubs RAIN and FAIR-SPACE. I obtained my Master and my Doctorate degrees in Computer Science from PUCRS (2014 and 2018 resp.), and Bachelor degree in Computer Science from Centro Universitário Franciscano (2012). 
+> I am a Lecturer at the University of Aberdeen (UK). I am also Honorary Research Associate at both the University of Liverpool (UK) and the University of Manchester (UK). I am part of the [Autonomy and Verification Network](https://autonomy-and-verification.github.io/). I obtained my Master and my Doctorate degrees in Computer Science from PUCRS (2014 and 2018 resp.), and Bachelor degree in Computer Science from Centro Universitário Franciscano (2012). My main research themes include cross-cutting research on multi-agent systems and multi-agent planning, as well as integrating formal verification in software development. I serve as a member of the program committee in several international conferences such as AAAI, IJCAI, AAMAS, and ECAI.
 
 # Main Topics of Interest
 
