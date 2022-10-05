@@ -4,7 +4,7 @@ layout: default
 
 # Short Bio
 
-> I am a [Lecturer](https://www.abdn.ac.uk/people/rafael.cardoso){:target="\_blank"} in the Department of Computing Science at the [University of Aberdeen](https://www.abdn.ac.uk/){:target="\_blank"} (UK), and a member of the [Agents at Aberdeen](https://agentsataberdeen.github.io/){:target="\_blank"} (A<sup>3</sup>) research group. I am also Honorary Research Associate at both the University of Liverpool (UK) and the University of Manchester (UK), and I am part of the [Autonomy and Verification Network](https://autonomy-and-verification.github.io/){:target="\_blank"}. I obtained my Master and my Doctorate degrees in Computer Science from PUCRS (2014 and 2018 resp.), and Bachelor degree in Computer Science from Centro Universitário Franciscano (2012). My main research themes include cross-cutting research on multi-agent systems and multi-agent planning, as well as integrating formal verification in software development. I serve as a member of the program committee in several international conferences such as AAAI, IJCAI, AAMAS, and ECAI.
+> I am a [Lecturer](https://www.abdn.ac.uk/people/rafael.cardoso){:target="\_blank"} in the Department of Computing Science at the [University of Aberdeen](https://www.abdn.ac.uk/){:target="\_blank"} (UK), and a member of the [Agents at Aberdeen](https://agentsataberdeen.github.io/){:target="\_blank"} (A<sup>3</sup>) research group. I am also an Honorary Senior Research Associate at both the University of Liverpool (UK) and the University of Manchester (UK), and I am part of the [Autonomy and Verification Network](https://autonomy-and-verification.github.io/){:target="\_blank"}. I obtained my Master and my Doctorate degrees in Computer Science from PUCRS (2014 and 2018 resp.), and Bachelor degree in Computer Science from Universidade Franciscana (2012). My main research themes include cross-cutting research on multi-agent systems, multi-agent planning, and hybrid AI, as well as integrating formal verification in software development. I serve as a member of the program committee in several international conferences such as AAAI, IJCAI, AAMAS, and ECAI.
 
 # Main Topics of Interest
 
@@ -16,6 +16,7 @@ layout: default
 *	Runtime verification
 *	Multi-agent planning
 *	Verification of planning
+*	Hybrid AI, combining multi-agent systems with deep learning
 *	Annual participant of the <a href="https://multiagentcontest.org/" target="_blank">multi-agent programming contest </a>(1<sup>st</sup> place in 2016, 4<sup>th</sup> place in 2017, 2<sup>nd</sup> place in 2018, 1<sup>st</sup> place in 2019, 2<sup>nd</sup> place in 2020/2021)
 
 # List of Publications
