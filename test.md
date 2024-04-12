@@ -1,5 +1,5 @@
 <style>
-.col-1{width:100%;white-space: nowrap;}
+.col-1{nowrap;}
 </style>
 
 <img src="assets/images/me.jpg" alt="Stephen Cranefield" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
