@@ -4,72 +4,7 @@
 
 Bio: Dr. Shihan Wang is a tenured assistant professor at Utrecht University, Intelligent systems group. She received her Ph.D. from Tokyo Institute of Technology and worked as a postdoctoral researcher at machine learning lab of University of Amsterdam. She was also a visiting researcher at Computational Social Science Lab of ETH Zurich. With a knowledge portfolio of machine learning, her current research focuses on developing efficient, scalable and reliable reinforcement learning (RL) approaches for intelligent and interactive systems. Her technical interest covers both single-agent and multi-agent RL, and their practical usage in sequential decision-making tasks. Several practical domains are especially interesting for her, including but not limited to dialogue, personalized healthcare, energy optimization and autonomous driving.
 
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Monday (May 6)**</th>
-    <th>Tuesday (May 7)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>8:00-8:30</td>
-    <td>Registration Opens</td>
-    <td>Registration Opens</td>
-  </tr>
-  <tr>
-    <td>8:30-9:20</td>
-    <td>Arrival &amp; Welcome</td>
-    <td>Arrival &amp; Welcome</td>
-  </tr>
-  <tr>
-    <td>9:20-10:00</td>
-    <td><a href="#s1">[Session 1: Explainability and Trust](#s1)</a></td>
-    <td><a href="#s6">[Session 6: Applications](#s6)</a></td>
-  </tr>
-  <tr>
-    <td>10:00-10:30</td>
-    <td>Coffee Break</td>
-    <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td>10:30-11:30</td>
-    <td><a href="#s2">[Session 2: BDI Agents](#s2)</a></td>
-    <td><a href="#s7">[Session 7: Correctness and Testing](#s7)</a></td>
-  </tr>
-  <tr>
-    <td>11:30-12:30</td>
-    <td><a href="#s3">[Session 3: Agents and LLMs](#s3)</a></td>
-    <td><a href="#s8">[Session 8: Cognitive Agents](#s8)</a></td>
-  </tr>
-  <tr>
-    <td>12:30-14:00</td>
-    <td>Lunch Break</td>
-    <td>Lunch Break</td>
-  </tr>
-  <tr>
-    <td>14:00-15:00</td>
-    <td><a href="#talk1">[Invited Talk: Stephen Cranefield](#talk1)</a></td>
-    <td><a href="#talk2">[Invited Talk: Sebastian Rodriguez](#talk2)</a></td>
-  </tr>
-  <tr>
-    <td>15:00-16:00</td>
-    <td><a href="#s4">[Session 4: Planning and Learning](#s4)</a></td>
-    <td><a href="https://forms.office.com/e/4MC4XtzVcb">[Community Discussion](https://forms.office.com/e/4MC4XtzVcb)</a></td>
-  </tr>
-  <tr>
-    <td>16:00-16:30</td>
-    <td>Coffee Break</td>
-    <td>Coffee Break</td>
-  </tr>
-  <tr>
-    <td>16:30-17:10</td>
-    <td><a href="#s5">[Session 5: Agent Design](#s5)</a></td>
-    <td>Community Discussion Overview and Closing</td>
-  </tr>
-</tbody>
-</table>
+
 
 
 
