@@ -1,3 +1,7 @@
+<style>
+.col-1{width:100%;white-space: nowrap;}
+</style>
+
 <img src="assets/images/me.jpg" alt="Stephen Cranefield" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
 
 <p style="margin-top: -10px;"> **Abstract:** With the success of artificial intelligence in recent years, reinforcement learning (RL), a subfield of machine learning, has attracted great attention in recent years. Reinforcement learning also plays an important role in autonomous agents and multi-agent systems (MAS), such as autonomous driving, senor networks and games. In this talk, we will start with general information of reinforcement learning. Then, I will concentrate on the possible uses of RL in the development of interactive and learnable autonomous agents, both in single-agent and multi-agent scenarios. We will also explore the connections between RL and engineering multi-agent systems in future research.
@@ -6,16 +10,12 @@ Bio: Dr. Shihan Wang is a tenured assistant professor at Utrecht University, Int
 
 
 <table>
-<thead>
   <tr>
-    <th>9:20-9:40</th>
-    <th>Michael Winikoff. Towards Engineering Explainable Autonomous Systems</th>
+    <td=class='col-1'>9:20-9:40</td>
+    <td>Michael Winikoff. Towards Engineering Explainable Autonomous Systems</td>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td>9:40-10:00</td>
+    <td=class='col-1'>9:40-10:00</td>
     <td>Dennis Maecker, Felix Harenbrock, Henning Gösling, Timon Sachweh and Oliver Thomas. Synergizing Trust and Autonomy: Gaia-X Enabled Multi-Agent Ecosystems for Advanced Freight Fleet Management</td>
   </tr>
-</tbody>
 </table>
