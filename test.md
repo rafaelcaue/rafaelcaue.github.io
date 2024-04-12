@@ -11,11 +11,11 @@ Bio: Dr. Shihan Wang is a tenured assistant professor at Utrecht University, Int
 
 <table>
   <tr>
-    <td=class='col-1'>9:20-9:40</td>
+    <td class='col-1'>9:20-9:40</td>
     <td>Michael Winikoff. Towards Engineering Explainable Autonomous Systems</td>
   </tr>
   <tr>
-    <td=class='col-1'>9:40-10:00</td>
+    <td class='col-1'>9:40-10:00</td>
     <td>Dennis Maecker, Felix Harenbrock, Henning Gösling, Timon Sachweh and Oliver Thomas. Synergizing Trust and Autonomy: Gaia-X Enabled Multi-Agent Ecosystems for Advanced Freight Fleet Management</td>
   </tr>
 </table>
