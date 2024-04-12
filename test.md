@@ -14,9 +14,11 @@ Bio: Dr. Shihan Wang is a tenured assistant professor at Utrecht University, Int
 
 (Chair: TBA)
 
-<img src="assets/images/stephen.jpg" alt="Stephen Cranefield" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
+<img src="assets/images/stephen.jpg" alt="Stephen Cranefield" style="max-width: 150px; max-height: 150px; float: left; margin-left: 10px; margin-right: 10px;">
 
 <p style="margin-top: -10px;"> <b>Abstract:</b> TBA </p>
+
+<br><br><br><br><br>
 
 **Bio:** TBA
 
@@ -24,7 +26,7 @@ Bio: Dr. Shihan Wang is a tenured assistant professor at Utrecht University, Int
 
 (Chair: TBA)
 
-<img src="assets/images/sebastian.jpg" alt="Sebastian Rodriguez" style="max-width: 150px; float: left; margin-left: 10px; margin-right: 10px;">
+<img src="assets/images/sebastian.jpg" alt="Sebastian Rodriguez" style="max-width: 150px; max-height: 150px; float: left; margin-left: 10px; margin-right: 10px;">
 
 <p style="margin-top: -10px;"> <b>Abstract:</b> The agile software development life cycle is widely used in industry today due to its highly flexible and iterative processes that facilitate rapid prototyping. In this talk, we advocate to close the gap between mainstream software engineering and agent technology by adopting and adapting well-known and accepted techniques. We introduce an agile approach to capturing requirements in agent systems via user and system stories and how to translate these requirements into goal-oriented agent models. We cover how to define test cases to verify the expected system behaviour following a Behaviour-Driven Development (BDD) approach. We leverage a range of state-of-the-art development tools, inheriting the rich set of features they provide. Finally, we discuss future directions and opportunities. </p>
 
